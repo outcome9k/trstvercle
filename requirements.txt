@@ -1,0 +1,5 @@
+flask==2.3.3
+cloudscraper==1.2.71
+fake-useragent==1.4.0
+faker==19.6.2
+requests==2.31.0
